@@ -326,3 +326,11 @@ Waypoints
 .delay-05s { animation-delay: 0.5s; -webkit-animation-delay: 0.5s; }
 .delay-1s { animation-delay: 1s; -webkit-animation-delay: 1s; }
 .wp3 { background: url('../img/iphone-bg.jpg') no-repeat center center; height: 100%; }
+/* ==========================================================================
+Slider1
+========================================================================== */
+.slider1 { background: url('../img/hero-bg.jpg') no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; background-attachment: fixed; padding: 120px 0 140px; }
+.slider1 h1 { color: #fff; margin-bottom: 40px; text-transform: uppercase; font-weight: bold; }
+.slider1 h3 a { color: #fff;  }
+.slider1 li { padding-bottom: 1em;  }
+.slider1 ul {  color: #fff; list-style-type: none; }
